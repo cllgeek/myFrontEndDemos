@@ -74,7 +74,7 @@
 				height: 2rem;
 				background: url(ali2.png);
 				background-size: contain;
-				
+
 			}
 			.cont-name {
 				text-align: center;
@@ -91,22 +91,22 @@
 		<div id="content">
 			<section id="banner">
 				<ul class="swipe-wrap">
-					<li> 
+					<li>
 						<a href="#">
 						<img src="ali1.jpg"/>
 						</a>
 					</li>
-					<li> 
+					<li>
 						<a href="#">
 						<img src="ali2.png"/>
 						</a>
 					</li>
-					<li> 
+					<li>
 						<a href="#">
 						<img src="ali1.jpg"/>
 						</a>
 					</li>
-					<li> 
+					<li>
 						<a href="#">
 						<img src="ali2.png"/>
 						</a>
@@ -153,7 +153,7 @@
 			</section>
 		</div>
 		<script type="text/javascript">
-		
+
 		function init() {
 			var winw = document.body.clientWidth;   //获取屏幕宽度  这里没做兼容
 			var html = document.getElementById("html");  // 获取html元素
@@ -163,12 +163,12 @@
 			if (add > 13.75) {
 				add = 13.75;
 			}
-			//做个判断 由于最大的font-size为33.75px  所以这里我就直接用13.75来判断了 
+			//做个判断 由于最大的font-size为33.75px  所以这里我就直接用13.75来判断了
 			html.style.fontSize = 20 + add + 'px';
 		}
 		init();
-		
-		window.onresize = changeWin;  //当每次屏幕有变化的时候都要重新计算一次   比如横屏变为了竖屏 PC端动态变化宽度 
+
+		window.onresize = changeWin;  //当每次屏幕有变化的时候都要重新计算一次   比如横屏变为了竖屏 PC端动态变化宽度
 		function changeWin() {
 			init();
 		}
