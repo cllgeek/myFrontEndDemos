@@ -1,12 +1,10 @@
 ### 我的前端demo库
 
-- [x] 20.[熊猫书院官网](https://www.pandateacher.com/)
-- [x] 19.[移动端日历组件](https://cllgeek.github.io/myFrontEndDemos/demo/17/index.html)
-- [x] 18.[某种轮播样式](https://cllgeek.github.io/myFrontEndDemos/demo/18/index.html)
-- [x] 17.[弹窗组件](https://cllgeek.github.io/myFrontEndDemos/demo/14/index.html)
-- [x] 16.[SVG圆环动效](https://cllgeek.github.io/myFrontEndDemos/demo/16/index.html)
-- [x] 15.[forchange官网](http://www.forchange.cn/)
-- [x] 14.[倒计时小项目(移动端)](https://cllgeek.github.io/myFrontEndDemos/demo/timeout/index.html)
+- [x] 18.[gallery-by-react](https://cllgeek.github.io/gallery-by-react/)
+- [x] 17.[移动端日历组件](https://cllgeek.github.io/myFrontEndDemos/demo/17/index.html)
+- [x] 16.[某种轮播样式](https://cllgeek.github.io/myFrontEndDemos/demo/18/index.html)
+- [x] 15.[弹窗组件](https://cllgeek.github.io/myFrontEndDemos/demo/14/index.html)
+- [x] 14.[SVG圆环动效](https://cllgeek.github.io/myFrontEndDemos/demo/16/index.html)
 - [x] 13.[气泡墙](https://cllgeek.github.io/myFrontEndDemos/demo/13/index.html)
 - [x] 12.[纯CSS 三级菜单](https://cllgeek.github.io/myFrontEndDemos/demo/12/index.html)
 - [x] 11.[ios滑动解锁文字效果](https://cllgeek.github.io/myFrontEndDemos/demo/11/index.html)
