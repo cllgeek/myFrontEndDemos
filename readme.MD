@@ -1,6 +1,5 @@
 ### 我的前端demo库
-
-- [x] 18.[gallery-by-react](https://cllgeek.github.io/gallery-by-react/)
+#### 一般demo
 - [x] 17.[移动端日历组件](https://cllgeek.github.io/myFrontEndDemos/demo/17/index.html)
 - [x] 16.[某种轮播样式](https://cllgeek.github.io/myFrontEndDemos/demo/18/index.html)
 - [x] 15.[弹窗组件](https://cllgeek.github.io/myFrontEndDemos/demo/14/index.html)
@@ -18,4 +17,6 @@
 - [x] 3.[仿淘宝移动响应式](https://cllgeek.github.io/myFrontEndDemos/demo/3/index.html)
 - [x] 2.[仿淘宝移动端轮播](https://cllgeek.github.io/myFrontEndDemos/demo/2/m-taobao.html)
 - [x] 1.[两组图片切换](https://cllgeek.github.io/myFrontEndDemos/demo/1/banner-demo.html)
+#### react-demo
+- [x] 18.[gallery-by-react](https://cllgeek.github.io/gallery-by-react/)
 - [Demo链接地址!](https://cllgeek.github.io/myFrontEndDemos/)
