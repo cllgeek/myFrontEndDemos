@@ -3,67 +3,13 @@
 <head>
   <meta charset="utf-8">
   <title>我的前端库</title>
-  <style type="text/css">
-    * {
-      padding: 0;
-      margin: 0;
-      font-size: 14px;
-    }
-    h1 {
-      padding: 20px 0;
-      text-align: center;
-      font-size: 44px;
-      color: #000;
-    }
-    ul {
-      list-style: none;
-    }
-    a {
-      color: #ABCDEF;
-      text-decoration: none;
-    }
-    .box > li {
-      width: 400px;
-      margin: 20px auto;
-      line-height: 50px;
-      font-size: 24px;
-      border: 1px solid #ABCDEF;
-      border-radius: 5px;
-    }
-    .box > li a {
-      display: block;
-      width: 360px;
-      font-size: 22px;
-      padding: 0 0 0 40px;
-      -webkit-transition: all .5s;
-      -moz-transition: all .5s;
-      -ms-transition: all .5s;
-      -o-transition: all .5s;
-      transition: all .5s;
-      letter-spacing: 1.4px;
-    }
-    a:hover {
-      background: #abcdef;
-      color: #fff;
-    }
-    .sub-ul {
-      display: none;
-    }
-    .sub-ul li:first-child {
-      border-top: 1px solid #ABCDEF;
-    }
-    .sub-ul li a{
-      width: 340px;
-      border-top: 1px;
-      font-size: 20px;
-      padding: 0 0 0 60px;
-    }
-  </style>
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-<h1>我的前端作品库</h1>
-<ul class="box" id="box">
-  <li><a href="https://cllgeek.github.io/gallery-by-react/" target="_blank">18.gallery-by-react</a></li>
+<h1>我的前端demo库</h1>
+<!-- 一般demo -->
+<ul class="common" id="box">
+<h2 class="title-demo">一般demo</h2>
   <li><a href="demo/17/index.html" target="_blank">17.移动端日历</a></li>
   <li><a href="demo/18/index.html" target="_blank">16.某种轮播样式</a></li>
   <li><a href="demo/14/index.html" target="_blank">15.弹窗组件</a></li>
@@ -89,6 +35,17 @@
   <li><a href="demo/3/index.html" target="_blank">3.仿淘宝移动响应式</a></li>
   <li><a href="demo/2/m-taobao.html" target="_blank">2.仿淘宝移动端轮播</a></li>
   <li><a href="demo/1/banner-demo.html" target="_blank">1.两组图片切换</a></li>
+</ul>
+<!-- react-demo -->
+<ul class="common">
+<h2 class="title-demo">react-demo</h2>
+  <li><a href="https://cllgeek.github.io/gallery-by-react/" target="_blank">18.gallery-by-react</a></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 <script type="text/javascript">
   var box = document.getElementById("box");

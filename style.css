@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding: 20px 0;
+    text-align: center;
+    font-size: 44px;
+    color: #000;
+}
+.title-demo{
+    -webkit-column-span: all;
+    -moz-column-span: all;
+    -o-column-span: all;
+    column-span: all;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+}
+.common {
+    list-style: none;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    -o-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+    -o-column-gap: 10px;
+    column-gap: 10px;
+    -webkit-column-rule: 1px solid #fc0;
+    -moz-column-rule: 1px solid #fc0;
+    -o-column-rule: 1px solid #fc0;
+    column-rule: 1px solid #fc0;
+}
+
+a {
+    color: #ABCDEF;
+    text-decoration: none;
+}
+
+.common > li {
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    line-height: 50px;
+    font-size: 24px;
+    border: 1px solid #ABCDEF;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 8px 0 gray;
+    box-shadow: 2px 2px 0 0 gray;
+}
+
+.common > li a {
+    display: block;
+    width: 400px;
+    font-size: 22px;
+    padding: 0 0 0 40px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    letter-spacing: 1.4px;
+}
+
+a:hover {
+    background: #abcdef;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.sub-ul {
+    display: none;
+}
+
+.sub-ul li:first-child {
+    border-top: 1px solid #ABCDEF;
+}
+
+.sub-ul li a {
+    width: 340px;
+    border-top: 1px;
+    font-size: 20px;
+    padding: 0 0 0 60px;
+}
