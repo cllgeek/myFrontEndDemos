@@ -1,6 +1,6 @@
 ### 我的前端demo库
 #### 一般demo
-- [x] 19.[移动端日历组件](https://cllgeek.github.io/myFrontEndDemos/demo/19/jd.html)
+- [x] 19.[仿京东移动端首页](https://cllgeek.github.io/myFrontEndDemos/demo/19/jd.html)
 - [x] 17.[移动端日历组件](https://cllgeek.github.io/myFrontEndDemos/demo/17/index.html)
 - [x] 16.[某种轮播样式](https://cllgeek.github.io/myFrontEndDemos/demo/18/index.html)
 - [x] 15.[弹窗组件](https://cllgeek.github.io/myFrontEndDemos/demo/14/index.html)
@@ -21,4 +21,6 @@
 
 #### react-demo
 - [x] 18.[gallery-by-react](https://cllgeek.github.io/gallery-by-react/)
+- [x] 20.[cllgeek.github.io](https://cllgeek.github.io)
+- [x] 21.[react简易markdown编辑器](https://cllgeek.github.io/#/md)
 - [Demo链接地址!](https://cllgeek.github.io/myFrontEndDemos/)
